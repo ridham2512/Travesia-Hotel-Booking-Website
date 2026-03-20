@@ -1,5 +1,4 @@
 ---
-```markdown
 # 🏨 Travesia - Hotel Booking Application (MERN Stack)
 
 <p align="center">
